@@ -16,7 +16,7 @@ The neural network learns the relationship between the input features and the ta
 
 ## Neural Network Model
 
-![](./IMG/img.png)
+![](./IMG/neural.png)
 
 ## DESIGN STEPS
 
